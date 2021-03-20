@@ -1,2 +1,2 @@
-# C0784906_CSD2214_test1_movie-ticket-booking
+# WebTech Project
 Added jQuery Slideshow in index.html
